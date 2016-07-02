@@ -1,8 +1,13 @@
-puts "Welcome to the wonderful world of butterflies!"
+puts "WELCOME TO THE WONDERFUL WORLD OF BUTTERFLIES!"
+puts " "
 puts "There are four stages in the life cycle of butterflies."
+puts " "
 puts "egg, larva, pupa, adult"
+puts " "
 puts "Lets see how much you know!"
+puts " "
 puts "🐛  " * 15
+puts " "
 
 def stages
  puts "Please enter your options of egg, larva, pupa, or adult."
